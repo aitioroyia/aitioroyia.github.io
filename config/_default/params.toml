@@ -1,2 +1,9 @@
 
 mainSections = ['books', 'films']
+[comment]
+name = 'giscus'
+repo='aitioroyia/aitioroyia.github.io'
+repoId='R_kgDONprQxQ'
+category='Announcements'
+categoryId='DIC_kwDONprQxc4Cl_BZ'
+strict='1'
