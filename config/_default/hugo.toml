@@ -39,5 +39,6 @@ mainSections = ['posts', 'courses']
     style = 'monokai'
     tabWidth = 4
     wrapperClass = 'highlight'
+enableGitInfo = true
 
 
